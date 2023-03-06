@@ -1,0 +1,9 @@
+.App{
+  height: 100vh;
+}
+
+.App.dark {
+  background-color: #282c34;
+  color: aliceblue;
+
+}
